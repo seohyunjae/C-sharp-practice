@@ -5,9 +5,12 @@
     "\\DotNet-master\\DotNet-master",
     "\\DotNet-master\\DotNet-master\\DotNet",
     "\\DotNet-master\\DotNet-master\\DotNet\\DotNet",
-    "\\DotNet-master\\DotNet-master\\DotNet\\DotNet\\03_HelloWorld",
-    "\\DotNet-master\\DotNet-master\\DotNet\\DotNet\\03_HelloWorld\\01_HelloWorld"
+    "\\DotNet-master\\DotNet-master\\DotNet\\DotNet\\12_BitShiftConditional",
+    "\\DotNet-master\\DotNet-master\\DotNet\\DotNet\\12_BitShiftConditional\\05_BitwiseOperator",
+    "\\DotNet-master\\DotNet-master\\DotNet\\DotNet\\15_For",
+    "\\DotNet-master\\DotNet-master\\DotNet\\DotNet\\15_For\\10_ForTriangle",
+    "\\DotNet-master\\DotNet-master\\DotNet\\DotNet\\15_For\\12_ForFactorial"
   ],
-  "SelectedNode": "\\DotNet-master\\DotNet-master\\DotNet\\DotNet\\03_HelloWorld\\01_HelloWorld\\HelloWorld.cs",
+  "SelectedNode": "\\DotNet-master\\DotNet-master\\DotNet\\DotNet\\15_For\\12_ForFactorial\\ForFactorial.cs",
   "PreviewInSolutionExplorer": false
 }
