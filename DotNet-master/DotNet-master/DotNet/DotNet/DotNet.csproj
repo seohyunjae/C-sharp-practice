@@ -51,7 +51,7 @@
     <LangVersion>7.1</LangVersion>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>AsDemo</StartupObject>
+    <StartupObject>StringBuilderPerformance</StartupObject>
   </PropertyGroup>
   <PropertyGroup>
     <NoWin32Manifest>true</NoWin32Manifest>
