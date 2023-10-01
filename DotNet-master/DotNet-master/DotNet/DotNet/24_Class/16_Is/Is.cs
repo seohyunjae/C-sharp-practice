@@ -5,7 +5,7 @@ class Is
 {
     static void Main()
     {
-        object x = 12345;
+        object x = 123;
 
         if (x is int) //[1] is 연산자로 특정 형식인지 확인
         {
