@@ -15,7 +15,7 @@ class HashtableDemo
         hash["사이트"] = "비주얼아카데미";
 
         //[3] 직접 출력
-        Console.WriteLine(hash[0]);
+        Console.WriteLine(hash[1]);
         Console.WriteLine(hash["닉네임"]);
         Console.WriteLine(hash["사이트"]);
 
