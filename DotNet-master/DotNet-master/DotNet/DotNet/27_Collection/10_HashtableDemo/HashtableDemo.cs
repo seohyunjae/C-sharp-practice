@@ -18,6 +18,8 @@ class HashtableDemo
         Console.WriteLine(hash[1]);
         Console.WriteLine(hash["닉네임"]);
         Console.WriteLine(hash["사이트"]);
+        Console.WriteLine(hash["닉네임"]);
+
 
         //[4] key와 value 쌍으로 출력 가능
         foreach (object o in hash.Keys)
