@@ -17,6 +17,7 @@ class StackNote
         stack.Push("첫 번째");
         stack.Push("두 번째");
         stack.Push("세 번째"); 
+        stack.Push("네 번째");
 
         //[3] 데이터 출력
         Console.WriteLine(stack.Pop()); // 세 번째
