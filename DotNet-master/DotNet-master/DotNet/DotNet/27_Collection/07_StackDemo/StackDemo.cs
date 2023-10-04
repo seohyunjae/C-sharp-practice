@@ -13,7 +13,8 @@ class StackDemo
         stack.Push("닷넷노트");
         stack.Push("닷넷코리아");
         stack.Push("비주얼아카데미");
-        stack.Push("비주얼아카데미2");
+        stack.Push("비주얼아카데미2"); 
+        stack.Push("비주얼아카데미3");
 
         //[3] Peek()로 제일 상단(마지막)의 데이터 반환
         Console.WriteLine($"{stack.Peek()}, {stack.Count}");
