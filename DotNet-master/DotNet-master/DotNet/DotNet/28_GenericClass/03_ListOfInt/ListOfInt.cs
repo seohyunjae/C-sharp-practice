@@ -19,6 +19,8 @@ class ListOfInt
         List<int> lstNumbers = new List<int>();
         lstNumbers.Add(30);
         lstNumbers.Add(40);
+        lstNumbers.Add(50);
+
         for (int i = 0; i < lstNumbers.Count; i++)
         {
             Console.WriteLine(lstNumbers[i]); // 30, 40
