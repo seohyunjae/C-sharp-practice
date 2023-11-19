@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace DotNet._40_Delegate
 {
-    class DelegateSample
+    internal class FileName
     {
-
     }
 }
