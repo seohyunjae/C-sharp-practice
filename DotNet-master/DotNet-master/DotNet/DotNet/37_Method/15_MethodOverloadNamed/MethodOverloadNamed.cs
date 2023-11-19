@@ -12,7 +12,9 @@ public class Messenger
 class MethodOverloadNamed
 {
     static void Main()
-    {
+    { 
+
+        // 명명된 매개변수 사용해도됨
         Messenger messenger = new Messenger();
         messenger.PrintMessage("My"); // [A]
         messenger.PrintMessage(prefix: "Oh ", message: "My"); // [B]
