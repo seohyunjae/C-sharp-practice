@@ -20,7 +20,7 @@ class StringArray
         var a4 = a3.ToList();
 
         //[5] IEnumerable<T> 개체는 주로 foreach 문으로 반복 사용
-        foreach (var arr in a3)
+        foreach (var arr in a4)
         {
             Console.WriteLine(arr);
         }

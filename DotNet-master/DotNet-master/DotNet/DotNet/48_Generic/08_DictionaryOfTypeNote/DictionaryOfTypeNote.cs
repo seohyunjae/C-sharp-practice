@@ -13,7 +13,7 @@ namespace DotNet
             //[2] 1부터 12까지 기본값으로 초기화: 배열과 달리 1부터 12까지 지정 가능
             for (int i = 1; i <= 12; i++)
             {
-                keyValuePairs.Add(i, 0.0); 
+                keyValuePairs.Add(i, 0.1); 
             }
 
             //[3] 월별 전기 요금 사용량 관리

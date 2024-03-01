@@ -16,5 +16,13 @@ public class DictionaryOfString
         {
             Console.WriteLine(nickNames["RedPlus"]);
         }
+        if (nickNames.ContainsKey("Itist"))
+        {
+            Console.WriteLine("yes");
+        }
+        if (nickNames.ContainsKey("Itist"))
+        {
+            Console.WriteLine("yes");
+        }
     }
 }

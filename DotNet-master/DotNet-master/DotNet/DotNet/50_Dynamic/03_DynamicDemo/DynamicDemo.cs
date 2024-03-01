@@ -15,6 +15,6 @@ class DynamicDemo
         Console.WriteLine(ds.Length); // 인텔리센스의 도움 못 받음
 
         ds = 1234; // [4]런타임시 숫자형으로 판단
-        Console.WriteLine(ds * 10); // 숫자형 연산이 가능: 12340
+        Console.WriteLine(ds.Length); // 숫자형 연산이 가능: 12340
     }
 }

@@ -4,7 +4,7 @@ public class Original { /* Empty */ }
 
 public static class OriginalExtension
 {
-    public static void NewMethod(this Original original) 
+    public static void NewMethod(this Original org) 
         => Console.WriteLine("새로운 메서드 추가");
 }
 
