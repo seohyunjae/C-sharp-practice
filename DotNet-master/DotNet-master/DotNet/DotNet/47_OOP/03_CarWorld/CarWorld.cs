@@ -14,13 +14,13 @@ namespace CarWorld
     /// </summary>
     class Car : IStandard
     {
-        #region [4] 필드: Private Member Variables
+        #region [4] 필드: Private Member Variables3
         private string name; // 필드 : 부품 
         private string[] names; // 배열형 필드
         private readonly int _Length; // 읽기전용 필드
         #endregion
 
-        #region [5] 생성자: Constructors
+        #region [5] 생성자: Constructors4
         public Car()
         {
             this.name = "좋은차"; // 필드를 기본값으로 초기화
