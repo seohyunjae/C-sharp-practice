@@ -11,5 +11,6 @@ class If // 클래스 이름은 다른 이름 사용 가능
         {
             Console.WriteLine("합격");
         }
+        
     }
 }
